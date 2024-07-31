@@ -14,4 +14,4 @@ The project is organized as follow:
 A notable feature of this project is the handling of boundary conditions, which are not fixed and can move through a linear interpolation with a fixed point approximating infinity.
 
 ### Report
-TFor an in-depth look at the results and methodologies used in this project, refer to the presentation **Black-Scholes.pdf** (in Italian).
+For an in-depth look at the results and methodologies used in this project, refer to the presentation **Black-Scholes.pdf** (in Italian).
