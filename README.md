@@ -5,7 +5,7 @@ This project is a C++ implementation of finite difference methods to solve the p
 The code includes functionality for option pricing, handling boundary conditions, and performing error analysis compared to analytical solutions.
 
 ### Project Structure
-The project is organized as follow:
+The project is organized as follows:
 - **BS.h**: header file defining the BS class and its methods;
 - **BS.cpp**: implementation of BS class methods;
 - **main.cpp**: contains the main function and example usage.
